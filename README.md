@@ -235,3 +235,7 @@ Once both the above steps are done click on Save.
 - Get public of workernode serves for cluster
 - modify security group to allow all inbound traffic from everywhere
 - copy pulic ip and run on browser e.g http://example_ip:30080
+
+
+
+#####
